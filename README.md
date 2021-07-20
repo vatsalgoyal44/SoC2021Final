@@ -1,7 +1,6 @@
 # SoC2k21 Facial Recognition Project
 ***Repository for SoC project done in Summer 2021***<br />
-Theme : to develop a face recognition app capable of detecting all faces included in the image, cropping the faces and extracting their features, and comparing the faces for clustering pictures with same faces. The app would also be capable to detecting faces and objects in videos.<br />
-<br />
+
 All the tasks can be find in the Tasks folder and practice notebooks in the practice folder.
 ## Phase 1
 - Learnt basics of Python and working with Google Colab.
